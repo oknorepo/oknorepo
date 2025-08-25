@@ -1,19 +1,19 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>net.angelxwind.appsyncunified</id>
+	<name>AppSync Unified</name>
+	<version>102.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>6.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>AppSync makes you able to sideload apps using your jailbreak abilities.</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
+		<description>AppSync makes you able to sideload apps using your jailbreak abilities..</description>
+		<description>AppSync makes you able to sideload apps using your jailbreak abilities.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
